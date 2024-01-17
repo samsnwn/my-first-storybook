@@ -20,3 +20,12 @@ export const Default: Story = {
       "be parts correct potatoes sides donkey extra climate happily freedom relationship tape unit tall hung call cat window steady world front graph particular pick",
   },
 };
+
+export const Underline: Story = {
+  args: {
+    as: "h1",
+    underline: true,
+    children:
+      "be parts correct potatoes sides donkey extra climate happily freedom relationship tape unit tall hung call cat window steady world front graph particular pick",
+  },
+};
